@@ -10,3 +10,4 @@ continue expo research
 start of day Thursday
 continue expo tutorial vid: https://www.youtube.com/timedtext_video?ref=player&v=qSRrxpdMpVc&o=U&ar=1583371080061
 continue expo tutorial vid
+continue expo tutorial vid

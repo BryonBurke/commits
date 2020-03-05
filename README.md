@@ -5,3 +5,6 @@ continue expo research
 continue expo research
 continue expo research
 continue expo research
+continue expo research
+
+start of day Thursday

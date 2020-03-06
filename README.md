@@ -20,3 +20,4 @@ continue expo tutorial vid
 1030 continue expo vid
 1100 continue expo vid
 1130 continue expo vid
+1200 break for lunch

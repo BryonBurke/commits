@@ -17,3 +17,4 @@ continue expo tutorial vid
 900 continue expo vid
 930 continue expo vid
 1000 continue expo vid
+1030 continue expo vid

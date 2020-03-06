@@ -14,3 +14,4 @@ continue expo tutorial vid
 
 800 Start of day Friday
 830 continue expo vid
+900 continue expo vid
